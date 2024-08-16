@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [FM Blog preview card Repo](https://github.com/cos-0000/blog-preview-card)
-- Live Site URL: [FM Blog preview card site](https://your-live-site-url.com)
+- Live Site URL: [FM Blog preview card site](https://cos-0000.github.io/blog-preview-card/)
 
 
 ### Built with
