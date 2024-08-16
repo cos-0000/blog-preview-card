@@ -77,11 +77,12 @@ footer {
 	margin-top: var(--sz-150);
 }
 footer img {
-	width: 30%;
-	height: 30%;
+	width: 25%;
+	height: 25%;
 	margin-right: var(--sz-100);
 }
 footer p {
+	font-size: var(--fs-p);
 	font-weight: var(--fw-600);
 }
 /* typography */
@@ -116,7 +117,7 @@ h1 section {
 }
 section > p {
 	line-height: 1.5;
-	font-size: 0.7rem;
+	font-size: 0.75rem;
 	color: var(--clr-gray-500);
 	font-weight: var(--fw-500);
 }
@@ -135,7 +136,7 @@ a {
 	color: var(--clr-gray-950);
 }
 a:hover {
-	border-bottom: 2px solid var(--clr-gray-950);
+	border-bottom: 1px solid var(--clr-gray-950);
 }
 @media only screen and (min-width: 375px) {
 	h1 {
