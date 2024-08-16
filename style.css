@@ -109,7 +109,8 @@ h1 {
 	transition: color 0.5s ease-in-out;
 	cursor: pointer;
 }
-h1:hover {
+h1:hover,
+h1:focus {
 	color: var(--clr-yellow);
 }
 h1 section {
